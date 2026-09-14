@@ -14,7 +14,7 @@ Images are free and taken from the awesome website www.magnific.com. Credits:
 
 a href="https://www.magnific.com/free-vector/business-man-with-text-yes-i-can-hand-draw-sketch-illustration-design_30832338.htm">Image by Rochak Shukla on Magnific
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 
