@@ -1,6 +1,6 @@
 ### Description
 
-This is NOT an automation testing practice. This is a web development practice assignment from The Odin Project.
+This is NOT an automation testing practice. This is a web development practice assignment from The Odin Project. The outcome can be viewed here https://mypracticesautomationtesting.github.io/WebDevelopmentTOPFlex7/
 
 Using HTML and CSS with VSCode.
 
